@@ -1,2 +1,2 @@
-# ssh-with-paramiko
-ssh using paramiko
+# SSH wiith paramiko
+Excute command on linux server and print the result
